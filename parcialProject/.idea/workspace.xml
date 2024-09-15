@@ -37,7 +37,6 @@
   "keyToString": {
     "Python.Ejercicios.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "avance0",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726365890264</updated>
-      <workItem from="1726365895188" duration="1283000" />
+      <workItem from="1726365895188" duration="1570000" />
     </task>
     <servers />
   </component>
